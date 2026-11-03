@@ -9,15 +9,15 @@ Une seule installation à la main ; ensuite, SecMet se met à jour depuis ses R�
 **Ubuntu 24.04, Linux Mint 22, Debian 13** (glibc ≥ 2.39) :
 
 ```bash
-wget https://github.com/hclcdev12/secmet-releases/releases/latest/download/secmet_0.3.3-ubuntu24.04_amd64.deb
-sudo apt install ./secmet_0.3.3-ubuntu24.04_amd64.deb
+wget https://github.com/hclcdev12/secmet-releases/releases/latest/download/secmet_0.3.3.ubuntu24.04_amd64.deb
+sudo apt install ./secmet_0.3.3.ubuntu24.04_amd64.deb
 ```
 
 **Ubuntu 22.04, Linux Mint 21, Debian 12** :
 
 ```bash
-wget https://github.com/hclcdev12/secmet-releases/releases/latest/download/secmet_0.3.3-ubuntu22.04_amd64.deb
-sudo apt install ./secmet_0.3.3-ubuntu22.04_amd64.deb
+wget https://github.com/hclcdev12/secmet-releases/releases/latest/download/secmet_0.3.3.ubuntu22.04_amd64.deb
+sudo apt install ./secmet_0.3.3.ubuntu22.04_amd64.deb
 ```
 
 **Fedora 42** : `sudo dnf install ./secmet-0.3.3-1.fc42.x86_64.rpm`.
